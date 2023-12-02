@@ -1,1 +1,7 @@
-Our progress...
+Some research was done.
+
+Data collection and preparation was done.
+
+Data preprocessing is done.
+
+Now, Nurbanu is applying Random Forest and testing it.
