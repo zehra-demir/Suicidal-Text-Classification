@@ -5,3 +5,5 @@ Data collection and preparation was done.
 Data preprocessing is done.
 
 Now, Nurbanu is applying Random Forest and testing it.
+
+Zehra added her algorithms and readme along with requirements.txt.
